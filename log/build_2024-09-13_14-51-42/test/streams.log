@@ -1,0 +1,10 @@
+[0.015s] Invoking command in '/home/yunus/ros_ws/build/test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/yunus/ros_ws/build/test -- -j8 -l8
+[0.093s] Invoked command in '/home/yunus/ros_ws/build/test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/yunus/ros_ws/build/test -- -j8 -l8
+[0.159s] Invoking command in '/home/yunus/ros_ws/build/test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/yunus/ros_ws/build/test
+[0.172s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.172s]   file INSTALL cannot find "/home/yunus/ros_ws/src/test/src/talker1.py": No
+[0.173s]   such file or directory.
+[0.173s] 
+[0.173s] [0m
+[0.173s] -- Install configuration: ""
+[0.175s] Invoked command in '/home/yunus/ros_ws/build/test' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/yunus/ros_ws/build/test

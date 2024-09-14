@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find "/home/yunus/ros_ws/src/test/src/talker1.py": No
+  such file or directory.
+
+[0m
+-- Install configuration: ""

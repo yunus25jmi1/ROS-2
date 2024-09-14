@@ -1,0 +1,9 @@
+/home/yunus/ros_ws/build/test1/CMakeFiles/uninstall.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/test1_uninstall.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/test.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/edit_cache.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/rebuild_cache.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/list_install_components.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/install.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/install/local.dir
+/home/yunus/ros_ws/build/test1/CMakeFiles/install/strip.dir
